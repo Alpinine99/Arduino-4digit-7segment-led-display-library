@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map For Segdisp
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Segdisp	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+DISPL_Pinsetup	KEYWORD2
+DISPL_Dec	KEYWORD2
+DISPL_DisplayTime	KEYWORD2
+DISPL_Enable	KEYWORD2
+DISPL_PrintChar	KEYWORD2
+DISPL_Chaser	KEYWORD2
+DISPL_MultiChar	KEYWORD2
+DISPL_PrintDigit	KEYWORD2
+DISPL_Countup	KEYWORD2
+DISPL_Timeup	KEYWORD2
+DISPL_InitLZ	KEYWORD2
+DISPL_Countdown	KEYWORD2
+DISPL_Timedown	KEYWORD2
+DISPL_Reset	KEYWORD2
+AndreTech_display	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
